@@ -20,6 +20,12 @@
       "minutes": [
         10,
         25
+      ],
+      "interactions": [
+        "drum-call"
+      ],
+      "access": [
+        "step-free"
       ]
     },
     {
@@ -30,6 +36,12 @@
       "minutes": [
         35,
         50
+      ],
+      "interactions": [
+        "sing-along"
+      ],
+      "access": [
+        "step-free"
       ]
     },
     {
@@ -39,6 +51,12 @@
       "minutes": [
         45,
         55
+      ],
+      "interactions": [
+        "flag-wave"
+      ],
+      "access": [
+        "step-free"
       ]
     }
   ],

@@ -1,0 +1,4 @@
+{"cursor": 1, "source": "venue", "minute": 30, "payload": {"site": "yard", "change": "outbound_only"}}
+{"cursor": 2, "source": "audience", "minute": 32, "payload": {"trip": "trip-19", "arrived": "yard"}}
+{"cursor": 3, "source": "stage", "minute": 36, "payload": {"version": "board-1", "site": "yard", "program": "court-song", "state": "called"}}
+{"cursor": 4, "source": "stage", "minute": 40, "payload": {"version": "board-2", "site": "plaza", "state": "received"}}

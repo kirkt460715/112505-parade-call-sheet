@@ -1,0 +1,21 @@
+[
+  {
+    "operation": "post-call-sheet",
+    "recipient": "plaza",
+    "delivery": "applied",
+    "receipt": {
+      "version": "board-2",
+      "received": true
+    }
+  },
+  {
+    "operation": "post-call-sheet",
+    "recipient": "yard",
+    "delivery": "lost_reply",
+    "receipt": {
+      "version": "board-2",
+      "received": true,
+      "in_effect": false
+    }
+  }
+]
